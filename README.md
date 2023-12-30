@@ -1,4 +1,4 @@
 # arcic-demo
 this is my first project
 <br>
-author arcic
+author arcic bhattacharya
